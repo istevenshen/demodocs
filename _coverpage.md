@@ -1,10 +1,10 @@
 ![logo](https://user-images.githubusercontent.com/19553554/34926690-2bac6002-f9ec-11e7-8b30-aceef8a814e3.png)
 
-# mako 中文文档
+# pyecharts
 
 > pyecharts is a Python Echarts Plotting Library.
 
-Mako 模板从一个包含各种类型的内容的文本流解析得到，包括 XML、HTML、email 文本等。模板还可以包含 Mako 指令，用来表示变量和表达式替换、控制结构、服务器端注释、整块 Python 代码，还有用来提供额外功能的各种标签。所有这些结构都被编译为实际的 Python 代码。这意味着你可以在 Mako 模板的每个方面都充分利用 Python 的强大能力。
+ It simply provides the interface between Echarts and Python.
 
 
 [GitHub](https://github.com/pyecharts/pyecharts/)
