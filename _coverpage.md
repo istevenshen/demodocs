@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/istevenshen/demodocs)
-[Get Started](zh-cn/get_start)
+[Get Started](zh-cn/doc_get_start)
